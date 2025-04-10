@@ -1,5 +1,5 @@
 
-# Super Trunfo de Cidades
+# Xadrez
 
 Este é um jogo desenvolvido em linguagem C que exibe o movimento de algumas peças do jogo de xadrez da seguinte forma: 
 - Bispo: 5 casas na diagonal (direita e para cima) 
