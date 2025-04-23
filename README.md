@@ -5,7 +5,7 @@ Este é um jogo desenvolvido em linguagem C que exibe o movimento de algumas pe�
 - Bispo: 5 casas na diagonal (direita e para cima) 
 - Torre: 5 casas para a direita 
 - Rainha: 8 casas para a esquerda 
-- Cavalo: movimento em L, 2 casa para cima e 1 para a direita
+- Cavalo: movimento em L, 2 casas para cima e 1 para a direita
 
 Foram implementados loops aninhados na movimentação do bispo e funções recursivas no código-fonte.
 
